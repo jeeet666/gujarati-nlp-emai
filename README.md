@@ -1,4 +1,4 @@
-# gujarati-nlp-emai
+# gujarati-nlp
 
 # Gujarati NLP – Low-Resource Sentiment Analysis
 
